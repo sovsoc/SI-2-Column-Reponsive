@@ -1,0 +1,509 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- Inliner Build Version 4380b7741bb759d6cb997545f3add21ad48f010b -->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>The Sovereign Investor</title>
+  </head>
+  <body style="width: 100% !important; min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0; padding: 0;"><style type="text/css">
+a:hover {
+color: #2795b6 !important;
+}
+a:active {
+color: #2795b6 !important;
+}
+a:visited {
+color: #2ba6cb !important;
+}
+h1 a:active {
+color: #2ba6cb !important;
+}
+h2 a:active {
+color: #2ba6cb !important;
+}
+h3 a:active {
+color: #2ba6cb !important;
+}
+h4 a:active {
+color: #2ba6cb !important;
+}
+h5 a:active {
+color: #2ba6cb !important;
+}
+h6 a:active {
+color: #2ba6cb !important;
+}
+h1 a:visited {
+color: #2ba6cb !important;
+}
+h2 a:visited {
+color: #2ba6cb !important;
+}
+h3 a:visited {
+color: #2ba6cb !important;
+}
+h4 a:visited {
+color: #2ba6cb !important;
+}
+h5 a:visited {
+color: #2ba6cb !important;
+}
+h6 a:visited {
+color: #2ba6cb !important;
+}
+table.button:hover td {
+background: #2795b6 !important;
+}
+table.button:visited td {
+background: #2795b6 !important;
+}
+table.button:active td {
+background: #2795b6 !important;
+}
+table.button:hover td a {
+color: #fff !important;
+}
+table.button:visited td a {
+color: #fff !important;
+}
+table.button:active td a {
+color: #fff !important;
+}
+table.button:hover td {
+background: #2795b6 !important;
+}
+table.tiny-button:hover td {
+background: #2795b6 !important;
+}
+table.small-button:hover td {
+background: #2795b6 !important;
+}
+table.medium-button:hover td {
+background: #2795b6 !important;
+}
+table.large-button:hover td {
+background: #2795b6 !important;
+}
+table.button:hover td a {
+color: #ffffff !important;
+}
+table.button:active td a {
+color: #ffffff !important;
+}
+table.button td a:visited {
+color: #ffffff !important;
+}
+table.tiny-button:hover td a {
+color: #ffffff !important;
+}
+table.tiny-button:active td a {
+color: #ffffff !important;
+}
+table.tiny-button td a:visited {
+color: #ffffff !important;
+}
+table.small-button:hover td a {
+color: #ffffff !important;
+}
+table.small-button:active td a {
+color: #ffffff !important;
+}
+table.small-button td a:visited {
+color: #ffffff !important;
+}
+table.medium-button:hover td a {
+color: #ffffff !important;
+}
+table.medium-button:active td a {
+color: #ffffff !important;
+}
+table.medium-button td a:visited {
+color: #ffffff !important;
+}
+table.large-button:hover td a {
+color: #ffffff !important;
+}
+table.large-button:active td a {
+color: #ffffff !important;
+}
+table.large-button td a:visited {
+color: #ffffff !important;
+}
+table.secondary:hover td {
+background: #d0d0d0 !important; color: #555;
+}
+table.secondary:hover td a {
+color: #555 !important;
+}
+table.secondary td a:visited {
+color: #555 !important;
+}
+table.secondary:active td a {
+color: #555 !important;
+}
+table.success:hover td {
+background: #457a1a !important;
+}
+table.alert:hover td {
+background: #970b0e !important;
+}
+table.subs:hover td {
+background: #01B608 !important; border-color: #167204 !important;
+}
+table.facebook:hover td {
+background: #2d4473 !important;
+}
+table.twitter:hover td {
+background: #0087bb !important;
+}
+table.google-plus:hover td {
+background: #CC0000 !important;
+}
+@media only screen and (max-width: 600px) {
+  table[class="body"] img {
+    width: auto !important; height: auto !important;
+  }
+  table[class="body"] center {
+    min-width: 0 !important;
+  }
+  table[class="body"] .container {
+    width: 95% !important;
+  }
+  table[class="body"] .row {
+    width: 100% !important; display: block !important;
+  }
+  table[class="body"] .wrapper {
+    display: block !important; padding-right: 0 !important;
+  }
+  table[class="body"] .columns {
+    table-layout: fixed !important; float: none !important; width: 100% !important; padding-right: 0px !important; padding-left: 0px !important; display: block !important;
+  }
+  table[class="body"] .column {
+    table-layout: fixed !important; float: none !important; width: 100% !important; padding-right: 0px !important; padding-left: 0px !important; display: block !important;
+  }
+  table[class="body"] .wrapper.first .columns {
+    display: table !important;
+  }
+  table[class="body"] .wrapper.first .column {
+    display: table !important;
+  }
+  table[class="body"] table.columns td {
+    width: 100% !important;
+  }
+  table[class="body"] table.column td {
+    width: 100% !important;
+  }
+  table[class="body"] .columns td.one {
+    width: 8.333333% !important;
+  }
+  table[class="body"] .column td.one {
+    width: 8.333333% !important;
+  }
+  table[class="body"] .columns td.two {
+    width: 16.666666% !important;
+  }
+  table[class="body"] .column td.two {
+    width: 16.666666% !important;
+  }
+  table[class="body"] .columns td.three {
+    width: 25% !important;
+  }
+  table[class="body"] .column td.three {
+    width: 25% !important;
+  }
+  table[class="body"] .columns td.four {
+    width: 33.333333% !important;
+  }
+  table[class="body"] .column td.four {
+    width: 33.333333% !important;
+  }
+  table[class="body"] .columns td.five {
+    width: 41.666666% !important;
+  }
+  table[class="body"] .column td.five {
+    width: 41.666666% !important;
+  }
+  table[class="body"] .columns td.six {
+    width: 50% !important;
+  }
+  table[class="body"] .column td.six {
+    width: 50% !important;
+  }
+  table[class="body"] .columns td.seven {
+    width: 58.333333% !important;
+  }
+  table[class="body"] .column td.seven {
+    width: 58.333333% !important;
+  }
+  table[class="body"] .columns td.eight {
+    width: 66.666666% !important;
+  }
+  table[class="body"] .column td.eight {
+    width: 66.666666% !important;
+  }
+  table[class="body"] .columns td.nine {
+    width: 75% !important;
+  }
+  table[class="body"] .column td.nine {
+    width: 75% !important;
+  }
+  table[class="body"] .columns td.ten {
+    width: 83.333333% !important;
+  }
+  table[class="body"] .column td.ten {
+    width: 83.333333% !important;
+  }
+  table[class="body"] .columns td.eleven {
+    width: 91.666666% !important;
+  }
+  table[class="body"] .column td.eleven {
+    width: 91.666666% !important;
+  }
+  table[class="body"] .columns td.twelve {
+    width: 100% !important;
+  }
+  table[class="body"] .column td.twelve {
+    width: 100% !important;
+  }
+  table[class="body"] td.offset-by-one {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-two {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-three {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-four {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-five {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-six {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-seven {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-eight {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-nine {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-ten {
+    padding-left: 0 !important;
+  }
+  table[class="body"] td.offset-by-eleven {
+    padding-left: 0 !important;
+  }
+  table[class="body"] table.columns td.expander {
+    width: 1px !important;
+  }
+  table[class="body"] .right-text-pad {
+    padding-left: 10px !important;
+  }
+  table[class="body"] .text-pad-right {
+    padding-left: 10px !important;
+  }
+  table[class="body"] .left-text-pad {
+    padding-right: 10px !important;
+  }
+  table[class="body"] .text-pad-left {
+    padding-right: 10px !important;
+  }
+  table[class="body"] .hide-for-small {
+    display: none !important;
+  }
+  table[class="body"] .show-for-desktop {
+    display: none !important;
+  }
+  table[class="body"] .show-for-small {
+    display: inherit !important;
+  }
+  table[class="body"] .hide-for-desktop {
+    display: inherit !important;
+  }
+  table[class="body"] .right-text-pad {
+    padding-left: 10px !important;
+  }
+  table[class="body"] .left-text-pad {
+    padding-right: 10px !important;
+  }
+}
+</style>
+  <table class="body" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; height: 100%; width: 100%; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 18px; margin: 0; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td class="center" align="center" valign="top" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;">
+        <center style="width: 100%; min-width: 580px;">
+
+          <table class="row header" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; background: #FFF; padding: 0px;" bgcolor="#FFF"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td class="center" align="center" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;" valign="top">
+                <center style="width: 100%; min-width: 580px;">
+
+                  <table class="container" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 580px; margin: 0 auto; padding: 0;"><tr style="vertical-align: top; text-align: inherit; padding: 0;" align="left"><td class="wrapper last" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; position: relative; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 10px 0px 0px;" align="left" valign="top">
+
+                        <table class="twelve columns" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 700px; margin: 0 auto; padding: 0;">
+                          <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+                          <td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0px 0px 10px;" align="left" valign="top">
+                            <span style="font-size: 10px; float: left;"><em>03.31.14 - </em>Gain the Tools to Protect Your Future by Brian O'Connor</span>
+                          </td>
+                        </tr>
+                        <tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+                          <td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0px 0px 10px;" align="left" valign="top"><img src="http://thesovereigninvestor.com/wp-content/uploads/2014/03/si_new_logo_2013_urug.jpg" border="0" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; float: left; clear: both; display: block; border: none;" align="left" /></td>
+          </tr></table></td>
+                    </tr></table></center>
+              </td>
+            </tr></table><table class="container" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: inherit; width: 580px; margin: 0 auto; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+
+      
+
+              <!-- content start --><!-- Break Tag for row --><table class="row" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; position: relative; display: block; padding: 0px;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td class="wrapper" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; position: relative; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 10px 20px 0px 0px;" align="left" valign="top">
+                     
+
+
+                    <table class="six columns" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 460px; margin: 0 auto; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0px 0px 10px;" align="left" valign="top">
+
+                          <h1 style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: 600; text-align: left; line-height: 1.3; word-break: normal; font-size: 32px; margin: 0; padding: 0;" align="left">Gain the Tools to Protect Your Future</h1>
+                          <p><strong>By Brian O'Connor</strong> </p>
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">Dear [%= :subscriberName(E, Sovereign Investor) %]<span class="style4" style="margin-bottom: 1em;">,</span></p>
+<p>Uruguay  is a hidden paradise away from the financial turmoil that grips the United  States. With its beautiful beaches and gently rolling hills of vast farmland, I  can understand why so many people are considering Uruguay as their new home …  or at the very least, a wise investment in their future.</p>
+<p>But  what if you wanted another investment option?   Something a little more traditional … and European.</p>
+<p>As  the attendees of the Uruguay Offshore Investment Summit have learned, we can  help you with that too.</p>
+<p class="callout" style="font-size: 13px; border-top-color: gray; border-top-style: solid; border-top-width: 1px; border-bottom-style: solid; border-bottom-color: gray; border-bottom-width: 1px; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; background: #F7FCFF; margin: 0 0 0px; padding: 15px;" align="left"><strong><a href="[%= LINK('251205', 1, 'http://pro1.sovereignsociety.com/203391/?email={emailaddress}', 'Here’s What You Missed ', 'Order', 0, 0) %]">Here’s What You Missed </a></strong><a href="[%= LINK('249311', 1, 'http://pro1.wsdinsider.com/201105/', '         ', 'Order', 0, 0) %]"><br />
+        </a><br />
+        Juan Fischer, Jeff Opdyke and 14 other investment and offshore experts spent the last few days divulging their top secrets, strategies and recommendations to prosper no matter what happens to the U.S. economy. 
+        <br />
+        <br />
+        Since you weren’t here with us, you didn’t get to hear or see any of it. That doesn’t mean you can’t. I want to offer you our Uruguay Wealth Report. <br />
+        <br />
+        It contains nearly 20 hours of audio and over four hours of video footage unveiling the most powerful information you’ll ever hear and touring the most beautiful real estate you’ve ever seen.
+        <br />
+        <br />
+        But, this audio will be available to claim only until midnight tomorrow. To secure your copy, <a href="[%= LINK('251207', 1, 'http://pro1.sovereignsociety.com/203391/?email={emailaddress}', 'click here', 'Order', 0, 0) %]">click here</a>.</p>
+<p>The Uruguay Offshore Investment Summit has been  non-stop learning about the benefits of Uruguay, the real estate market in this  little piece of paradise and the investment opportunities in farmland here.  While many attendees are seriously contemplating an investment in Uruguayan  real estate, they still have many questions about how to handle it from a  financial perspective while still protecting their assets from the reaching  hands of the government.</p>
+<p>That’s where Josh Bennett comes in. </p>
+<p>We heard Josh Bennett of Josh Bennett, Esq., PA  talk about international estate and asset preservation planning in his  presentation “How to Title Your Uruguayan Real Estate Investment and Prevent  Double Taxation.”</p>
+<p>Josh went over a variety of company options that  are available to investors such as corporation, S.A, SRL, and LLC or  partnership as a way of protecting your assets. He explained that corporation  income tax in Uruguay is levied at a flat 25% and discussed more tax-friendly  options for taxpayers that would enable them to avoid a two-tier taxation  scheme.</p>
+<p>Some other topics he touched on included:</p>
+<ul>
+  <li>Estate planning with Asset Protection  Trusts (APT) — advantages and how to create an APT.</li>
+  <li>Popular foreign jurisdictions with APT  statues.</li>
+  <li>Wealth preservation trust investment  tax strategies.</li>
+  <li>U.S Treasury reporting requirements  of offshore APTs.</li>
+</ul>
+<h3>A European Approach to Asset Protection</h3>
+<p>We switched gears later in the day, focusing more  on asset protection outside of Uruguay and some of the options available to  investors in European countries.</p>
+<p>Thomas Fischer stepped up with his “Go Global as  a Viking” presentation. Thomas has been involved in the financial services  industry for 38 years. He currently works as a consultant for ENR Asset  Management and as a currency consultant for Sovereign Society.</p>
+<p>With wealth confiscation a growing concern in  America, many are looking to protect their assets by moving more of their money  offshore, but the first question to arise is always: Where? Switzerland is typically  a favorite choice, with the country known for strict banking and privacy laws. But  Switzerland isn’t the only choice. Thomas discussed some of the benefits of  moving assets to Denmark over Switzerland, some of which include:</p>
+<ul>
+  <li>Denmark is an EU member but not in euro  zone.</li>
+  <li>Not under attack by EU tax hunt.</li>
+  <li>IRS not investigating Danish banks.</li>
+  <li>Offshore banking center thriving.</li>
+  <li>Compliance just as strict as  Switzerland.</li>
+  <li>Lower fees and minimums.</li>
+</ul>
+<p>Another option besides Denmark is Austria. Thomas  explained that some of the benefits to putting your assets in Austria are:</p>
+<ul>
+  <li>Strong privacy laws.</li>
+  <li>EU banking regulations.</li>
+  <li>Not under attack by OECD, but is  currently off their radar.</li>
+  <li>Austria is expected to benefit from  Swiss malaise.</li>
+</ul>
+<p>Of course, as Rob Vrijhof, President of WHVP, explained,  Switzerland remains a popular option when it comes to protecting your assets by  moving them offshore. Rob leads a Swiss portfolio management service adhering  to conservative principles of investment diversification and focuses on  American clients, whom he has more than 25 years of experience working with.</p>
+<p>In  Rob’s presentation “Switzerland Now More Than Ever,” he  discussed some of the reasons why you should consider investing in Switzerland.  Some of the points he brought up were: </p>
+<ul>
+  <li>Unmatched financial strength in conservative and prudent country.</li>
+  <li>Swiss banking confidentiality laws are unabated.</li>
+  <li>A Swiss bank account allows easy access to Swiss and European investments.</li>
+  <li>Switzerland offers the best combination of safety, privacy and  financial freedom.</li>
+  <li>Easy access to invest on the Swiss stock market — profiting from  the strong Swiss currency.</li>
+</ul>
+<h3>More Options for Your Assets</h3>
+<p>And these weren’t the only presentations we heard.  Knut Andersen of Swissmetal Inc. was present  to talk about rare strategic metals that can be stored in offshore vaults for  wealth preservation and profit.   Marc-André Sola from NMG International Financial Services Ltd. gave an  interesting talk about private placement policies.</p>
+<p>The presentations were extremely informative and  I’m still trying to pull together all the notes that I took throughout the day,  but I’m afraid I might have missed some important points. If you’d like to receive a complete  digital set of audio recordings from the Uruguay Offshore Investment Summit, <a href="[%= LINK('251208', 1, 'http://pro1.sovereignsociety.com/203393/?email={emailaddress}', 'just let us  know', 'Order', 0, 0) %]">just let us  know</a>.  We’ll grant you access as soon as the  recordings are ready.</p>
+<p>We are closing out the day with a real estate tour guided by  Sancho Santayana.  A Wharton  School of Business graduate and founder of 360 Terra, an international real  estate firm, Sancho specializes in helping North American and European  investors find property in Uruguay. He’s going to show us how easy it is to buy  property in paradise beneath the Southern Cross.</p>
+<p>Your conference insider,<br />
+  <img src="http://strategicinvestment.com/files/2014/01/BriansSig.jpg" alt="" width="174" height="68" /><br />
+  Brian O'Connor</p>
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left"><strong>P.S. </strong>Don’t forget that we’re ending the offer for the Uruguay Wealth Report tomorrow! If you want access to all the presentations as well as video of farmland and real estate tours taken, <a href="[%= LINK('251209', 1, 'http://pro1.sovereignsociety.com/203396/?email={emailaddress}', 'click here', 'Order', 0, 0) %]">click here</a>.</p>
+        <div>
+          <div> </div>
+      </div></td>
+                        <td class="expander" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; visibility: hidden; width: 0px; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top"></td>
+                      </tr></table></td>
+
+                 
+                  <td class="wrapper last" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; position: relative; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 10px 0px 0px;" align="left" valign="top">
+
+
+                    <table class="seven columns" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 220px; margin: 0 auto; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td class="panel" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; background: #f2f2f2; margin: 0; padding: 10px; border: 1px solid #d9d9d9;" align="left" bgcolor="#f2f2f2" valign="top">
+                          <h6 style="text-align: center; text-decoration: underline; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 1.3; word-break: normal; font-size: 20px; margin: 0 0 10px; padding: 0;" align="center">Today's Editor</h6>
+                          <p style="text-align:center;margin-bottom: 10px;"><strong>Brian O'Connor</strong>
+                          <p><img align="left" src="http://sovereignsociety.com/files/2014/03/Brian-Headshot.gif" alt="" width="70" height="84" hspace="5" vspace="5" /><span style="font-size:12px;">
+                          On-the-ground reporter for the Uruguay Offshore Investment Summit</span><br />
+                          </p>
+                          <hr style="color: #d9d9d9; height: 1px; background: #d9d9d9; border: none;" />
+                          <h6 style="text-align: center; text-decoration: underline; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 1.3; word-break: normal; font-size: 20px; margin: 0 0 10px; padding: 0;" align="center">Become a Subscriber</h6> 
+ <p style="font-size: 12px !important; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; margin: 0 0 10px; padding: 0;" align="left">When the next economic crisis hits – will you be prepared?  As a subscriber to <em>The Sovereign Investor</em>, we will arm you with the tools and strategies needed to prepare and prosper in the months ahead.
+<br /></p><table class="tiny-button subs" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; overflow: hidden; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; color: #ffffff; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; display: block; width: auto !important; background: #EE5F00; margin: 0; padding: 5px 0 4px; border: 1px solid #c24702;" align="center" bgcolor="#EE5F00" valign="top">
+                                  <a href="[%= LINK('251210', 1, 'http://pro1.sovereignsociety.com/203187/?email={emailaddress}', 'Subscribe Now!', 'Order', 0, 0) %]" style="color: #ffffff!important; text-decoration: none!important; font-weight: normal; font-family: Helvetica, Arial, sans-serif; font-size: 12px;">Subscribe Now!</a>
+                                </td>
+                              </tr></table></td>
+                   </tr></table><br /><h6 style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 1.3; word-break: normal; font-size: 20px; margin: 0; padding: 0;" align="left">Recent Articles</h6> 
+                       <table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top"> 
+                                 <p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left"><strong>03/29/14</strong></p><p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">
+                            <a href="[%= LINK('251211', 1, 'http://thesovereigninvestor.com/2014/03/29/inside-connection-uruguayan-farmland/', 'The Inside Connection to Uruguayan Farmland »', 'Tracking', 0, 0) %]" style="color: #2ba6cb; text-decoration: none;">The Inside Connection to Uruguayan Farmland »</a>
+                                       </p>
+                                 <p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">This type of real estate is not what you might think ...</p>
+                                </td>
+                              </tr></table><hr style="color: #d9d9d9; height: 1px; background: #d9d9d9; border: none;" /><table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+                                  <p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left"><strong>03/28/14</strong></p><p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">
+                            <a href="[%= LINK('250762', 1, 'http://thesovereigninvestor.com/2014/03/28/uruguay-residency-worlds-top-haven/', 'Uruguay: Residency in the World’s Top Haven »', 'Tracking', 0, 0) %]" style="color: #2ba6cb; text-decoration: none;">Uruguay: Residency in the World’s Top Haven »</a>
+                                       </p><p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">The Land of the Free has lost<br />
+its appeal ... </p>
+                                </td>
+                              </tr></table><hr style="color: #d9d9d9; height: 1px; background: #d9d9d9; border: none;" /><table style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; margin: 0; padding: 0;" align="left" valign="top">
+                                <p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left"><strong>03/27/14</strong></p><p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">
+                            <a href="[%= LINK('250437', 1, 'http://thesovereigninvestor.com/2014/03/27/find-key-asset-protection-latin-america/', 'Find the Key to Asset Protection in Latin America »', 'Tracking', 0, 0) %]" style="color: #2ba6cb; text-decoration: none;">Find the Key to Asset Protection in Latin America »</a>
+                                       </p><p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 16px; margin: 0 0 10px; padding: 0;" align="left">The Uruguay Offshore Investment Summit is The Sovereign Society’s first offshore event of 2014. </p>
+                                </td>
+                              </tr></table><table class="seven columns" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 220px; margin: 0 auto; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td class="panel" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; background: #f2f2f2; margin: 0; padding: 10px; border: 1px solid #d9d9d9;" align="left" bgcolor="#f2f2f2" valign="top">
+                          <h6 style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 1.3; word-break: normal; font-size: 20px; margin: 0 0 5px; padding: 0;" align="left">Connect With Us:</h6>
+                          <table class="tiny-button facebook" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; overflow: hidden; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; color: #ffffff; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; display: block; width: auto !important; background: #3b5998; margin: 0; padding: 5px 0 4px; border: 1px solid #2d4473;" align="center" bgcolor="#3b5998" valign="top">
+                                  <a href="[%= LINK('186003', 1, 'http://www.facebook.com/pages/Sovereign-Investor/143266365705902?v=app_4949752878', 'Facebook', 'Tracking', 0, 0) %]" style="color: #ffffff!important; text-decoration: none!important; font-weight: normal; font-family: Helvetica, Arial, sans-serif; font-size: 12px;">Facebook</a>
+                                </td>
+                              </tr></table><hr style="color: #d9d9d9; height: 1px; background: #d9d9d9; border: none;" /><table class="tiny-button twitter" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; overflow: hidden; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; color: #ffffff; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; display: block; width: auto !important; background: #00acee; margin: 0; padding: 5px 0 4px; border: 1px solid #0087bb;" align="center" bgcolor="#00acee" valign="top">
+                                  <a href="[%= LINK('186004', 1, 'http://twitter.com/SovereignInvest', 'Twitter', 'Tracking', 0, 0) %]" style="color: #ffffff!important; text-decoration: none!important; font-weight: normal; font-family: Helvetica, Arial, sans-serif; font-size: 12px;">Twitter</a>
+                                </td>
+                              </tr></table><hr style="color: #d9d9d9; height: 1px; background: #d9d9d9; border: none;" /><table class="tiny-button google-plus" style="border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 100%; overflow: hidden; padding: 0;"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left">
+                                <td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: center; color: #ffffff; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 16px; display: block; width: auto !important; background: #DB4A39; margin: 0; padding: 5px 0 4px; border: 1px solid #cc0000;" align="center" bgcolor="#DB4A39" valign="top">
+                                  <a href="[%= LINK('187429', 1, 'http://thesovereigninvestor.com/making-sure-you-receive-your-sovereign-investor-e-mails/', 'Whitelist Us', 'Tracking', 0, 0) %]" style="color: #ffffff!important; text-decoration: none!important; font-weight: normal; font-family: Helvetica, Arial, sans-serif; font-size: 12px;">Whitelist Us</a>
+                                </td>
+                              </tr></table></td>
+                        <td class="expander" style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; visibility: hidden; width: 0px; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 14px; margin: 0; padding: 0;" align="left" valign="top"></td>
+                      </tr></table></td>
+                </tr></table><table class="smalls twelve columns" style="font-size: small; border-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: left; width: 700px; background: rgb(235, 236, 236); margin: 0 auto; padding: 0;" bgcolor="rgb(235, 236, 236)"><tr style="vertical-align: top; text-align: left; padding: 0;" align="left"><td style="word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertical-align: top; text-align: left; color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; line-height: 19px; font-size: 14px; margin: 0; padding: 10px;" align="left" valign="top">
+                  <p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 14px; margin: 0 0 10px; padding: 0;" align="left"><a href="[%= LINK('196284', 1, 'http://thesovereigninvestor.com/privacy-policy/', 'Privacy Policy', 'Tracking', 0, 0) %]" style="color: #2ba6cb; text-decoration: none;">Privacy Policy</a></p>
+
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 14px; margin: 0 0 10px; padding: 0;" align="left">The Sovereign Investor Daily<br />
+55 NE 5th Avenue, Suite 200<br />
+Delray Beach, FL 33483</p>
+
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 14px; margin: 0 0 10px; padding: 0;" align="left">The mailbox associated with this email address is not monitored, so please do not reply.
+Your feedback is very important to us so if you would like to contact us with a question or comment, please click here: <a href="[%= LINK('246522', 1, 'http://thesovereigninvestor.com', 'http://thesovereigninvestor.com', 'Tracking', 0, 0) %]" style="color: #2ba6cb; text-decoration: none;">http://thesovereigninvestor.com</a></p>
+
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 14px; margin: 0 0 10px; padding: 0;" align="left">Legal Notice: This work is based on what we've learned as financial journalists. It may contain errors and should not be considered personalized investment advice. Therefore, you should not base investment decisions solely on what you read here. It's your money and your responsibility. Certain investments such as futures, options, and currency trading carry large potential rewards but also large potential risk. Don't trade in these markets with money you can't afford to lose. CFTC Rule 4.41 - These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading and may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. Past results of any individual or trading strategy published by the Sovereign Society are not indicative of future returns by that individual or strategy, and are not indicative of future returns which could be realized by you. </p>
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 14px; margin: 0 0 10px; padding: 0;" align="left">The Sovereign Society receives a marketing fee based on our relationship with EverBank.
+(c) 2014 Sovereign Offshore Services LLC expressly forbids its writers from having a financial interest in their own securities or commodities recommendations to readers. Such recommendations may be traded, however, by other editors, Sovereign Offshore Services LLC, its affiliated entities, employees, and agents, but only after waiting 24 hours after an internet broad cast or 72 hours after a publication only circulated through the mail. </p>
+
+<p style="color: #222222; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: normal; text-align: left; line-height: 19px; font-size: 14px; margin: 0 0 10px; padding: 0;" align="left">To unsubscribe from The Sovereign Investor and any associated external offers, <a href="[%= LINK('246523', 1, 'http://service.sovereignsociety.com//unsubscribe.php?mid=38747&amp;cid=1642621&amp;oid=10&amp;sid=42475&amp;vid=hVG7yd&amp;r=MC', 'click here.', 'Tracking', 0, 0) %]" style="color: #2ba6cb; text-decoration: none;">click here.</a><a style="color: #2ba6cb; text-decoration: none;" href="[%= LINK('1525', 1, '', '', 'Tracking', 0, 0) %]"></a></p>
+      </td>
+         </tr></table></td>
+    </tr></table></center></td></tr></table></body>
+</html>
+
+
+
+
